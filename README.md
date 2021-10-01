@@ -36,10 +36,10 @@ The obvious highlight of *A Hunter's Daedream* is the Vicn trilogy - VIGILANT, G
 
 ### Appearance
 
-The *Bijin* and *Pandorable* mods were chosen to fit the visual style of *Glenmoril Overhaul* and *Vigilant Overhaul*. While people may hate the "supermodel Skyrim" look, dark fantasy has never had shortages of pretty people, and these are the easiest mods to get going thanks to the multitude of patches present for them.
+The *Bijin*, *Kalilies'* and *Pandorable* mods were chosen to fit the visual style of *Glenmoril Overhaul* and *Vigilant Overhaul*. While people may hate the "supermodel Skyrim" look, dark fantasy has never had shortages of pretty people, and visual consistency is important. 
 
 ### Optionals For The Deranged
 
-*Dark Corners of Nirn - Stress* adds a Darkest Dungeon-style Stress system into the game. While I don't personally use it, it's been presented as an option for those who want to really up the feeling of despair and hopelessness. Just...make sure you turn off the visual effect in the MCM. It's really unpleasant to look at.
+*Dark Corners of Nirn - Stress* adds a Darkest Dungeon-style Stress system into the game. While I don't personally use it, it's been presented as an option for those who want to really up the feeling of despair and hopelessness. Just...make sure you turn off the visual effect in the MCM. It's really unpleasant to look at. You may also want to adjust the rate at which you gain Stress; I found it can get *really* high *really* fast.
 
 *Draugnarok* has also been included as an option. The world is full of things that hate you. Do you want more of them? Turn on the Draugr and let them crawl forth from the mist. For those brave souls willing to risk quest failure - or just willing to use the alternate Synthesis patch that marks NPCs as Protected.
