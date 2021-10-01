@@ -33,3 +33,13 @@ The obvious highlight of *A Hunter's Daedream* is the Vicn trilogy - VIGILANT, G
 *Dealing With Daedra* is a massive, sprawling mod that offers new ways to play, new organizations to interact with, and new forms of magic suitable for warlocks, witches, cultists, or hunters. *A Witcher's Adventure* further offers new magic suitable for non-mage playstyles, as well as offering players access to unique weapons and a whole new worldspace full of quests to enjoy. *Den of Cinder* similarly offers a new worldspace...one that's pitch black. Bring torches if you're wise.
 
 *Headhunter* gives you real reasons to go do those bounty quests alongside *Trophies - An Add-On For Headhunter*. Now, when you kill a bandit leader or a giant, you get to carry their head around with you and get a bonus for it. Or you can just turn it in for money. It's up to you. This applies to the ever-present *Missives*, too.
+
+### Appearance
+
+The *Bijin* and *Pandorable* mods were chosen to fit the visual style of *Glenmoril Overhaul* and *Vigilant Overhaul*. While people may hate the "supermodel Skyrim" look, dark fantasy has never had shortages of pretty people, and these are the easiest mods to get going thanks to the multitude of patches present for them.
+
+### Optionals For The Deranged
+
+*Dark Corners of Nirn - Stress* adds a Darkest Dungeon-style Stress system into the game. While I don't personally use it, it's been presented as an option for those who want to really up the feeling of despair and hopelessness. Just...make sure you turn off the visual effect in the MCM. It's really unpleasant to look at.
+
+*Draugnarok* has also been included as an option. The world is full of things that hate you. Do you want more of them? Turn on the Draugr and let them crawl forth from the mist. For those brave souls willing to risk quest failure - or just willing to use the alternate Synthesis patch that marks NPCs as Protected.
