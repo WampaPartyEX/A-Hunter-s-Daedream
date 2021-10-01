@@ -1,6 +1,6 @@
 # A Hunter's Daedream
 
-##"Like when the dream no longer needs the dreamer..." - [PELINAL](https://www.youtube.com/watch?v=E5ix0_W-ouI)
+## "Like when the dream no longer needs the dreamer..." - [PELINAL](https://www.youtube.com/watch?v=E5ix0_W-ouI)
 
 The Nightmare. It is a dark and twisted version of Nirn beneath a pale red moon. The land is filled with an endless fog that gives the countless horrors a place to hide. 
 
@@ -12,19 +12,19 @@ WARNING: *A Hunter's Daedream* is a mature list, as to be expected of one focuse
 
 
 
-##Noteworthy Mods
+## Noteworthy Mods
 
-##Character Creation
+### Character Creation
 
 Using *Skyrim Unbound*, a modified *Vokrii*, *Aetherius*, *Mundustar*, *Class Overhaul Re-Imagined: CORI*, and *Early Life Evaluation - EVE*
 
-##Gameplay
+### Gameplay
 
 *Daedream* relies on SkySA to deliver a smooth, behavior-driven combat experience. *The Ultimate Dodge Mod* and *ZXLice's Backstab & Parry* deliver new ways to evade and counter enemy attacks, while *ZXlice's Ultimate Potion Animation*, *(SGC) Normal Attacks Cost Stamina* and *(SGC) Soulslike Movement and Stamina Regen* completely change the way risk management works. Furthermore, the intended settings of the game **completely remove the player's passive health regeneration**, encouraging either very deliberate combat, or very harsh and swift combat. Bring potions. Thankfully, bandits always have a lot of them. Less thankfully, draugr don't...
 
 Enemies have gotten some new advantages, too. *Revenge of the Enemies* brings a new AI with new resistances and new defenses, off of which the incredible *Ultimate Bosses* provides some staggering setpiece battles that make old dungeons feel rough and new at the end. 
 
-##Quests
+### Quests
 
 The obvious highlight of *A Hunter's Daedream* is the Vicn trilogy - VIGILANT, GLENMORIL, and UNSLAAD - and Darkend. But those are the three everyone already knows.
 
