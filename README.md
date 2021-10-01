@@ -6,6 +6,8 @@ The Nightmare. It is a dark and twisted version of Nirn beneath a pale red moon.
 
 Hunt, Dreamer. You have no other choice. There are no safe places but those you carve out for yourself. There is no happiness but what is bought with iron and blood. Face down the Daedra and the dead, and win yourself a place in the world that belongs only to you.
 
+Unless...perhaps...you would offer your soul to those seeking champions...?
+
 *A Hunter's Daedream* is a modlist for those seeking a darker Tamriel. No museums here, nor Dwemer time shenanigans, nor happy-go-lucky scholars and singing cannibal wood elves and funny blue cats. *Daedream* is a tightly-focused modpack based on giving the user a dark fantasy experience with accessible performance and a surprisingly small install size. *Daedream* was designed with SkySA and True Directional Movement in mind - it was born out of my personal desire to play VIGILANT, GLENMORIL, and UNSLAAD the way I feel they were meant to be played. Every mod in *Daedream* has been selected to offer that dark fantasy experience, with a few optional mechanics for those seeking an even more brutal experience than the baseline.
 
 WARNING: *A Hunter's Daedream* is a mature list, as to be expected of one focused around VICN's work. It is not porn - nevernude skins ensure that, and the only HDT is for capes - but it is dark fantasy, and the mods herein draw on uncomfortable and eerie inspiration. You've been warned.
