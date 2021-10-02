@@ -13,6 +13,8 @@ Unless...perhaps...you would offer your soul to those seeking champions...?
 WARNING: *A Hunter's Daedream* is a mature list, as to be expected of one focused around VICN's work. It is not porn - nevernude skins ensure that, and the only HDT is for capes - but it is dark fantasy, and the mods herein draw on uncomfortable and eerie inspiration. You've been warned.
 
 
+Standard install instructions apply. See any other Readme for information.
+
 
 ## Noteworthy Mods
 
@@ -44,4 +46,38 @@ The *Bijin*, *Kalilies'* and *Pandorable* mods were chosen to fit the visual sty
 
 *Dark Corners of Nirn - Stress* adds a Darkest Dungeon-style Stress system into the game. While I don't personally use it, it's been presented as an option for those who want to really up the feeling of despair and hopelessness. Just...make sure you turn off the visual effect in the MCM. It's really unpleasant to look at. You may also want to adjust the rate at which you gain Stress; I found it can get *really* high *really* fast.
 
-*Draugnarok* has also been included as an option. The world is full of things that hate you. Do you want more of them? Turn on the Draugr and let them crawl forth from the mist. For those brave souls willing to risk quest failure - or just willing to use the alternate Synthesis patch that marks NPCs as Protected.
+
+## Character Creation
+
+**Wait until all messages in the upper left corner have gone through!**
+
+The following MCM elements must be changed:
+
+1) A Witcher's Adventure: Load settings.
+
+2) Extended Encounters: Recommend setting Wilderness Encounters to 10% (no dragons) with Draugr Swarm, Location Encounters to 5%, and Sleep Encounters to 1% with no notifications.
+
+3) Immersive World Encounters: Recommend setting all events to 10%, giving it 14 days between events, and removing Tavern Brawls and She's My Wife.
+
+4) Resistances Rescaled: Remove Armor from the list.
+
+5) Timing Is Everything: Load settings.
+
+6) The Ultimate Dodge Mod: setup as you like it.
+
+7) VioLens: Load profile "Skyborne."
+
+
+From there, make your character as normal.
+
+## Post Creation
+
+Enable iEquip (or don't, if you're not playing on a controller). 
+
+Set a hotkey for Grip Switch.
+
+Enable Draugnarok.
+
+Save the game. Reload to allow Parry and Backstab to function.
+
+Play.
