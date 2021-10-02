@@ -28,8 +28,6 @@ Using *Skyrim Unbound*, a modified *Vokrii*, *Aetherius*, *Mundustar*, *Class Ov
 
 *Daedream* relies on SkySA to deliver a smooth, behavior-driven combat experience. *The Ultimate Dodge Mod* and *ZXLice's Backstab & Parry* deliver new ways to evade and counter enemy attacks. *Armor Rating Redux*, *Know Your Armor*, and *Resistances Rescaled* offer the player some much-needed survivability in this harsh land. *ZXlice's Ultimate Potion Animation*, *(SGC) Normal Attacks Cost Stamina* and *(SGC) Soulslike Movement and Stamina Regen* completely change the way risk management works. Furthermore, the intended settings of the game **completely remove the player's passive health regeneration**, encouraging either very deliberate combat, or very harsh and swift combat. Bring potions. Thankfully, bandits always have a lot of them. Less thankfully, draugr don't...
 
-Enemies have gotten some new advantages, too. *Revenge of the Enemies* brings a new AI with new resistances and new defenses, off of which the incredible *Ultimate Bosses* provides some staggering setpiece battles that make old dungeons feel rough and new at the end. Further, *Know Your Enemy* will provide enemies with weaknesses to exploit.
-
 And if it's too easy or too tough for you? *Simply Balanced* is included. There's no shame in adjusting it to your liking.
 
 ### Quests
