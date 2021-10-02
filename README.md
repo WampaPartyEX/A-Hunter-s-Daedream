@@ -1,6 +1,6 @@
 ![A Hunter's Daedream](https://i.imgur.com/0gMhgU1.jpg)
 
-                                                                     # A Hunter's Daedream
+#                                                                 A Hunter's Daedream
 
 ## "Like when the dream no longer needs its dreamer..." - [PELINAL](https://www.youtube.com/watch?v=E5ix0_W-ouI)
 
