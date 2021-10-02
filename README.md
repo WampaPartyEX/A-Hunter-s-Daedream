@@ -28,7 +28,7 @@ Using *Skyrim Unbound*, a modified *Vokrii*, *Aetherius*, *Mundustar*, *Class Ov
 
 ### Gameplay
 
-*Daedream* relies on SkySA to deliver a smooth, behavior-driven combat experience. *The Ultimate Dodge Mod* and *ZXLice's Backstab & Parry* deliver new ways to evade and counter enemy attacks. *Armor Rating Redux*, *Know Your Armor*, and *Resistances Rescaled* offer the player some much-needed survivability in this harsh land. *ZXlice's Ultimate Potion Animation*, *(SGC) Normal Attacks Cost Stamina* and *(SGC) Soulslike Movement and Stamina Regen* completely change the way risk management works. Furthermore, the intended settings of the game **completely remove the player's passive health regeneration**, encouraging either very deliberate combat, or very harsh and swift combat. Bring potions. Thankfully, bandits always have a lot of them. Less thankfully, draugr don't...
+*Daedream* relies on SkySA to deliver a smooth, behavior-driven combat experience. *The Ultimate Dodge Mod* and *ZXLice's Backstab & Parry* deliver new ways to evade and counter enemy attacks. *Armor Rating Redux*, *Know Your Armor*, and *Resistances Rescaled* offer the player some much-needed survivability in this harsh land. *ZXlice's Ultimate Potion Animation*, *(SGC) Normal Attacks Cost Stamina* and *(SGC) Soulslike Movement and Stamina Regen* completely change the way risk management works. Furthermore, the intended settings of the game **massively reduces the player's passive health regeneration**, encouraging either very deliberate combat, or very harsh and swift combat. Bring potions. Thankfully, bandits always have a lot of them. Less thankfully, draugr don't...
 
 And if it's too easy or too tough for you? *Simply Balanced* is included. There's no shame in adjusting it to your liking.
 
@@ -74,7 +74,7 @@ From there, make your character as normal. A premade "Good Hunter" unbound prese
 
 ## Post Creation
 
-Open the console. Type "help [perk]" Give yourself the Insight perk, then go over to it in your inventory and take the first perk from it to get access to the Regain mechanic.
+Open the console. Type help "[perk]" Give yourself the Insight perk, then go over to it in your inventory and take the first perk from it to get access to the Regain mechanic. While you don't technically have to do this, it'll probably make your life a bit easier, and the modlist is intended to be played with Regain unlocked from go.
 
 Distribute your two additional perks.
 
