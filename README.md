@@ -32,6 +32,14 @@ Using *Skyrim Unbound*, a modified *Vokrii*, *Aetherius*, *Mundustar*, *Class Ov
 
 And if it's too easy or too tough for you? *Simply Balanced* is included. There's no shame in adjusting it to your liking.
 
+### Items & Magic
+
+A whole host of armors and weapons await, as well as the usual Summermyst enchantments. However, to properly emulate the feel of the games and stories *Daedream* is playing off of, *Passive Weapon Enchantment Recharging* has been included, with a configurable recharge timer. This allows you to play without feeling the urge to soultrap everything that moves, while still benefitting from the enchantments you either paid for or crafted yourself.
+
+*Throwing Weapons Lite* will guarantee that you need to stay on your toes 24/7. Grenades and oil pots and throwing knives come from the enemy, too, and they're real, real mean. Fire is *very definitely* not your friend!
+
+For magic, several of the usual suspects like Odin have made their way in, but mods like *Shadow Spells*, *Summermyst Spells*, *Witchhunter Spells & Prayers* (with a balancing patch), and *Shinobi Tools* have added a number of new tools for surviving the Nightmare.
+
 ### Quests
 
 The obvious highlight of *A Hunter's Daedream* is the Vicn trilogy - VIGILANT, GLENMORIL, and UNSLAAD - and Darkend. But those are the ones everyone already knows.
@@ -104,3 +112,8 @@ If you wish for an even more difficult experience, open the console and type "pl
 ## Things To Know
 
 You can get a very solid pair of swords by running the Helgen cave and picking up the Old Silver Sword and Old Iron Sword, but note that the silver sword deals 20% less damage to humans and the Iron sword deals 20% less damage to everything else. The swords will also give Witcher Skill Tree experience.
+
+
+## Final Thoughts
+
+Don't give up, skeleton!
