@@ -2,7 +2,7 @@
 
 # A Hunter's Daedream
 
-## "Like when the dream no longer needs the dreamer..." - [PELINAL](https://www.youtube.com/watch?v=E5ix0_W-ouI)
+## "Like when the dream no longer needs its dreamer..." - [PELINAL](https://www.youtube.com/watch?v=E5ix0_W-ouI)
 
 The Nightmare. It is a dark and twisted version of Nirn beneath a pale red moon. The land is filled with an endless fog that gives the countless horrors a place to hide. 
 
