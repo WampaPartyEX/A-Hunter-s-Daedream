@@ -14,7 +14,7 @@ Unless...perhaps...you would offer your soul to those seeking champions...?
 
 WARNING: *A Hunter's Daedream* is a mature list, as to be expected of one focused around VICN's work. It is not porn - nevernude skins ensure that, and the only HDT is for capes - but it is dark fantasy, and the mods herein draw on uncomfortable and eerie inspiration. You've been warned.
 
-WARNING 2: This modlist is currently in VERY ROUGH ALPHA. Expect graphical glitches. Expect features to disappear. The current focus of playtesting is **combat feel and missing features**. Players of this early alpha are asked to explore combat against a variety of foes and see how the game flows and feels, and what might be missing, and what might be added, to make the experience better.
+WARNING 2: This modlist is currently in VERY ROUGH ALPHA. Expect graphical glitches. Expect some bugs, some overlapping items. The current focus of playtesting is **combat feel and missing features**. Players of this early alpha are asked to explore combat against a variety of foes and see how the game flows and feels, and what might be missing, and what might be added, to make the experience better. Features may be removed or added as time goes on.
 
 
 Standard install instructions apply. See any other Readme for information.
