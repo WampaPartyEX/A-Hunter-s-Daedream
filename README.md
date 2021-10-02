@@ -97,7 +97,7 @@ OPTIONAL:
 
 If you wish to use the armor from the screenshots, type "help Witch Hunter Coat" (or Witch Hunter's Coat, I forget) into the console. Witch Hunter set consists of Witch Hunter's Coat, Witch Hunter's Mask, Witch Hunter's Boots, Witch Hunter's Gloves, Witch Hunter's Hat.
 
-If you wish for an even more difficult experience, open the console and type "player.setav healratemult -95". It will slow your healing
+If you wish for an even more difficult experience, open the console and type "player.setav healratemult -95". It will slow your healing to an absolute crawl, making it more or less impossible to sit and heal in dungeons without taking an incredible amount of time. **This is the intended setup for the modlist** but you do not need to do this to experience it.
 
 ## Things To Know
 
