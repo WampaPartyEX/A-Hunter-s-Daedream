@@ -32,7 +32,7 @@ And if it's too easy or too tough for you? *Simply Balanced* is included. There'
 
 ### Quests
 
-The obvious highlight of *A Hunter's Daedream* is the Vicn trilogy - VIGILANT, GLENMORIL, and UNSLAAD - and Darkend. But those are the three everyone already knows.
+The obvious highlight of *A Hunter's Daedream* is the Vicn trilogy - VIGILANT, GLENMORIL, and UNSLAAD - and Darkend. But those are the ones everyone already knows.
 
 *Dealing With Daedra* is a massive, sprawling mod that offers new ways to play, new organizations to interact with, and new forms of magic suitable for warlocks, witches, cultists, or hunters. *A Witcher's Adventure* further offers new magic suitable for non-mage playstyles, as well as offering players access to unique weapons and a whole new worldspace full of quests to enjoy. *Den of Cinder* similarly offers a new worldspace...one that's pitch black. Bring torches if you're wise.
 
