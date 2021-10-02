@@ -42,7 +42,7 @@ The obvious highlight of *A Hunter's Daedream* is the Vicn trilogy - VIGILANT, G
 
 ### Appearance
 
-The *Bijin*, *Kalilies'* and *Pandorable* mods were chosen to fit the visual style of *Glenmoril Overhaul* and *Vigilant Overhaul*. While people may hate the "supermodel Skyrim" look, dark fantasy has never had shortages of pretty people, and visual consistency is important. 
+The *Bijin*, *Kalilies'* and *Pandorable* mods were chosen to fit the visual style of *Glenmoril Overhaul* and *Vigilant Overhaul*. While people may hate the "supermodel Skyrim" look, dark fantasy has never had shortages of pretty people, and visual consistency is important. There is currently no child overhaul as I'm still trying to figure out which one I think best fits the visuals presented.
 
 ### Optionals For The Deranged
 
@@ -70,9 +70,19 @@ The following MCM elements must be changed:
 7) VioLens: Load profile "Skyborne."
 
 
-From there, make your character as normal.
+From there, make your character as normal. A premade "Good Hunter" unbound preset has been loaded; it's recommended you pick your own starting gear according to how you see fit. If you instead wish to use the armor from the screenshot, see below.
 
 ## Post Creation
+
+Open the console. Type "help [perk]" Give yourself the Insight perk, then go over to it in your inventory and take the first perk from it to get access to the Regain mechanic.
+
+Distribute your two additional perks.
+
+Use the Reflect power to choose a background and get +10 to a skill of your choice.
+
+Open the MCM.
+
+Activate Ashes. Set it up as you like (I recommend disabling Injuries and Experience Loss).
 
 Enable iEquip (or don't, if you're not playing on a controller). 
 
@@ -80,6 +90,17 @@ Set a hotkey for Grip Switch.
 
 Enable Draugnarok.
 
-Save the game. Reload to allow Parry and Backstab to function.
+Save the game. Quit to main menu. Load to allow Parry and Backstab to function.
 
 Play.
+
+
+OPTIONAL:
+
+If you wish to use the armor from the screenshots, type "help Witch Hunter Coat" (or Witch Hunter's Coat, I forget) into the console. Witch Hunter set consists of Witch Hunter's Coat, Witch Hunter's Mask, Witch Hunter's Boots, Witch Hunter's Gloves, Witch Hunter's Hat.
+
+If you wish for an even more difficult experience, open the console and type "player.setav healratemult -95". It will slow your healing
+
+## Things To Know
+
+You can get a very solid pair of swords by running the Helgen cave and picking up the Old Silver Sword and Old Iron Sword, but note that the silver sword deals 20% less damage to humans and the Iron sword deals 20% less damage to everything else. The swords will also give Witcher Skill Tree experience.
